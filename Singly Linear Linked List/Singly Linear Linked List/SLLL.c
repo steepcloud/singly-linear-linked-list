@@ -356,8 +356,8 @@ void dosubmenu1(List* list) {
 /*
 *  Shows elements of submenu 2, read user input and,
 * accordingly, performs deletion of an element from a list.
-* @param list - pointer catre un element de tip List: acesta are un camp, head,
-*               ce pastreaza adresa primului element al unei liste liniare.
+* @param list - pointer to an element of type List: this has a field, head,
+*               that keeps the address of the first element of a linked list.
 */
 void dosubmenu2(List* list) {
 	int ch;
