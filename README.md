@@ -70,4 +70,5 @@ Sort: Choose option 5 to sort the elements of the list in ascending order based 
 Exit: Choose option 0 to exit the program.
 
 ## Contributing
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/steepcloud/singly-linear-linked-list)
+.
