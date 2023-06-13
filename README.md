@@ -47,7 +47,7 @@ To compile and run the program, you need a C compiler such as GCC. Follow these 
    ```
 3. Compile the source code:
    ```shell
-   gcc main.c -o linked_list
+   gcc SLLL.c -o linked_list
    ```
 4. Run the program:
    ```shell
